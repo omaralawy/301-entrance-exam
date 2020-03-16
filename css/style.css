@@ -1,0 +1,25 @@
+
+.tttt {
+   
+   width: 100%;
+   height:100px ;
+   text-align: center;
+   background-color: blue;
+   padding-top: 30px;
+   font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: #eee;
+} 
+form {
+    margin-top: 40px;
+    margin-right: 50px;
+    padding-top: 30px;
+    padding-left:80px ;
+}
+.activity{
+
+    margin-right:  29px;
+    width: fit-content;
+}
+
